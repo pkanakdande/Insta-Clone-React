@@ -1,0 +1,32 @@
+
+.nav-container{
+    display: flex;
+    height: 140px;
+    width: 60%;
+    box-shadow: 3px 3px 10px gray;
+    margin-left: 20%;
+    position: relative;
+    
+}
+#camera{
+    position: absolute;
+    right: 30px;
+    margin-top: 20px;
+}
+#box{
+    padding: 50px;
+    height: auto;
+    width: 53.5%;
+    box-shadow: 3px 3px 10px gray;
+    margin-left: 20%;
+}
+
+#logo{
+    margin-top: 45px;
+    margin-left: 10px;
+}
+
+#h1{
+    margin-top: 25px;
+    margin-left: 30px;
+}
