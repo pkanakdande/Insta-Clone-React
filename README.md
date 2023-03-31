@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -73,3 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # Insta-Clone-React
 react 
 >>>>>>> bd15d67aefd5515ae2c4d90efda15b211aee7526
+=======
+# Insta-Clone-React
+React 
+>>>>>>> ef0c6365a5a1a796264a5b83ec954029ba0e7e2e
