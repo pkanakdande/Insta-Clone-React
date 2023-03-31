@@ -1,0 +1,25 @@
+#parent-landing{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+img{
+    width: 450px;
+}
+h1{
+    font-size: 40px;
+    color: #006238;
+    font: normal normal normal 64px/85px Palatino;;
+}
+button{
+    font-size: 20px;
+    width: 100px;
+    height: 50px;
+    border: 1px solid #006238;
+    color: #006238;
+    border-radius: 8px;
+    margin-left: 110px;
+}
+button:hover{
+    background-color: #7DBBA0;
+}

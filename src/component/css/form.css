@@ -1,0 +1,10 @@
+.parentForm{
+display: flex;
+justify-content:center;
+align-items: center;
+}
+.parentForm
+
+input{
+    margin: 10px;
+}
